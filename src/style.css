@@ -31,8 +31,14 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-family: "Oswald";
+  font-weight: 700;
+  font-size: 3rem;
   line-height: 1.1;
+}
+
+p {
+  font-family: "Roboto";
 }
 
 button {
